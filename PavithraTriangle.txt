@@ -11,7 +11,7 @@ public class PavithraTriangle {
 		double bh=area(j,obj);
 		System.out.println ("area of the triangle" + bh);/* area of the triangle */
 		Scanner sc3 = new Scanner(System.in);
-		System.out.println("enter the c value");
+		System.out.println("enter the a value");
 		double obj2 = sc3.nextDouble();/* obj for circumference */
 		double result = circumference(j, obj, obj2);
 		System.out.println("circumference of the triangle" + result);
