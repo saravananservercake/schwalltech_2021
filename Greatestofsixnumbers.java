@@ -8,22 +8,22 @@ public class Greatestofsixnumbers {
 		Scanner sc = new Scanner(System.in);
 		
 		a=sc.nextInt();
-		System.out.println("Enter a:"+a);
+		
 		
         b=sc.nextInt();
-        System.out.println("Enter b:"+b);
+       
         
         c=sc.nextInt();
-        System.out.println("Enter c:"+c);
+        
         
         d=sc.nextInt();
-        System.out.println("Enter d:"+d);
+        
         
         e=sc.nextInt();
-        System.out.println("Enter e:"+e);
+        
        
         f=sc.nextInt();
-        System.out.println("Enter f1:"+f);
+        
         
 		if(a>b)
 		{
