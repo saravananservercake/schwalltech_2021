@@ -1,4 +1,4 @@
-class Circle {
+class suba_circle {
     int r=12;
 	static float pi=3.14f;
 
